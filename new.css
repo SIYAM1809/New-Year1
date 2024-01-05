@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+.am{
+    background-color: brown;
+}
+.banner {
+    background: #FFF8F3;
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.text{
+    text-align: right;
+}
+.A{
+    padding: 250px 50px 25px 700px;
+    color: #FFF;
+    font-size: 55px;
+    font-weight: 700;
+}
+.B{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 50px 25px 840px;
+
+}
+.btn{
+    background: #FFF;
+    padding-left: 900px;
+    margin-right: 50px;
+    height: 65px;
+    color: #005FAC;
+    border: 0;
+    border-radius: 5PX;
+    padding: 18px 25px;
+    font-size: 20px;
+    font-weight: 700;
+}
